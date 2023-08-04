@@ -8,7 +8,7 @@ most of the work that done by me located in \
 "src\features" for redux slices \
 "src\app" for redux Store and api Slices \
 
-unforenatly at my last try to test the app i couldn't login due a server error \
+unfortunately at my last try to test the app i couldn't login due a server error \
 
 i hope it back to work again 
 
